@@ -1,0 +1,29 @@
+button {
+    width: 64px;
+    height: 64px;
+    background-color: black;
+    color: white;
+    font-size: 32px;
+    margin: 10px;
+}
+
+.keys_row {
+    text-align: center;
+}
+
+#keys_output {
+    background-color: wheat;
+    margin: 20px;
+    font-size: 48px;
+    text-align: center;
+    height: 200px;
+}
+
+.number_row {
+    text-align: center;
+}
+
+.special_keys {
+    text-align: center;
+
+}
